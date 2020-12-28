@@ -1,1 +1,1 @@
-"This is File B: Version 2: Test Branch"
+"This is File B: Version 3: master branch changes after test branch"
